@@ -5,3 +5,5 @@ Kao pomoć koristio sam stackoverflow i sljedeće stranice:
   - https://github.com/serengil/deepface
   - https://viso.ai/computer-vision/deepface/
   - https://www.youtube.com/watch?v=n84hBgtzvxo&t=1s
+
+Može se koristiti bilo koja od priloženih slika!
