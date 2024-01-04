@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import cv2
 
 backend = "opencv"
-lokacija = "joe1.png"   #neka od slika koja se nalazi uz python file
+lokacija = "kiki3.png"   #neka od slika koja se nalazi uz python file
 
 slika = cv2.imread(lokacija)
 slika = cv2.resize(slika, (720, 640))
